@@ -1,6 +1,6 @@
 <?php
 
-//dua baris komentar
+//dua baris komentar , komentarnya cuma 1
 
 
 /*
