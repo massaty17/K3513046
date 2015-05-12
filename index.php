@@ -1,5 +1,9 @@
 <?php
 
+//dua baris komentar
+//dua baris komentar
+
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENThh
